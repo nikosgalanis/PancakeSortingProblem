@@ -5,9 +5,14 @@ The chef in our place is sloppy, and when he prepares a stack of pancakes they c
 
 We use some different algorithms to approach the problem.
 A naive sort, with maximum 2n flips
+
 A BFS sort
+
 A bidirectional sort, which uses 2 different BFSs.
+
 A batch sort, so given a big list of different lists, we use the minimum possible BFSs.
+
 The algorithm implemented by Bill Gates and Christos Papadimitriou, with maximum (5n+5)/3 flips
+
 
 We also give the same solutions(except the last one), for burnt pancakes, so in the goal state, the burnt side is facing downwards.
