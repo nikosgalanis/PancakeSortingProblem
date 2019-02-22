@@ -4,6 +4,7 @@ Pancake sorting is a problem of sorting a disordered stack of pancakes in order 
 The chef in our place is sloppy, and when he prepares a stack of pancakes they come out all different sizes. Therefore, when I deliver them to a customer, on the way to the table, I rearrange them (so that the smallest winds up on top, and so on, down to the largest at the bottom), by grabbing several from the top and flipping them over, repeating this (varying the number I flip) as many times as necessary. If there are n pancakes, what is the maximum number of flips that I will every have to use to rearrange them?
 
 We use some different algorithms to approach the problem.
+
 A naive sort, with maximum 2n flips
 
 A BFS sort
