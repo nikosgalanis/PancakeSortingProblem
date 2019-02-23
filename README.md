@@ -18,3 +18,13 @@ The algorithm implemented by Bill Gates and Christos Papadimitriou, with maximum
 (https://people.eecs.berkeley.edu/~christos/papers/Bounds%20For%20Sorting%20By%20Prefix%20Reversal.pdf)
 
 We also give the same solutions(except the last one), for burnt pancakes, so in the goal state, the burnt side is facing downwards.
+
+### Getting Started
+Install the Haskell toolchain : https://www.haskell.org/downloads
+
+### Downloading
+Download source code by typing:
+
+``` git clone https://github.com/nikosgalanis/PancakeSortingProblem.git ```
+
+
