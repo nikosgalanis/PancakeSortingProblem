@@ -33,7 +33,8 @@ Download source code by typing:
 
 ### Examples
 
-``` *Main> naive [2,7,3,1] 
+``` 
+*Main> naive [2,7,3,1] 
 [2,4,2,3,2] 
 
 *Main> visualize [2,7,3,1] [2,4,2,3,2]
@@ -49,7 +50,8 @@ Download source code by typing:
 [[4,3,5,3,4],[2,3,2],[2,3,5,3]]
 
 *Main> gates  [12,23,9,36,20,34,4]
-[4,5,2,3,7,3,7,5] ```
+[4,5,2,3,7,3,7,5] 
+```
 
 
 
