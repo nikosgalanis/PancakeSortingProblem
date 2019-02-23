@@ -64,7 +64,7 @@ Download source code by typing:
 
 ### Contributors 
 
-Maria Despoina Siampou @msiampou
-Nikos Galanis @nikosgalanis
+[Maria Despoina Siampou](https://github.com/msiampou)
+[Nikos Galanis](https://github.com/nikosgalanis)
 
 
