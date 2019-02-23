@@ -365,6 +365,8 @@ flipping list posx posp = (fs,ps)
 -- Pancakes Sorting Problem
 ----------------------------
 
+-- Cases Implementation
+
 --t and t+o are both free
 case_1a :: ([Int],[Int]) -> ([Int],[Int])
 case_1a xs = (ys,p)
@@ -594,6 +596,8 @@ case_7b' list = (fs,ps)
                       ps = path ++ [posx,posy]
                       len = length(fst(list))
 
+
+-- One case should fit each time
 solve :: ([Int],[Int]) -> ([Int],[Int])
 solve t  | xs == goal = t
          | xs == reverse(goal) = (reverse(xs),(p ++ [(length xs)]))
