@@ -51,7 +51,21 @@ Download source code by typing:
 
 *Main> gates  [12,23,9,36,20,34,4]
 [4,5,2,3,7,3,7,5] 
+
+*Main> burnt_bfs [(4,1),(9,0),(1,0),(10,1),(17,0)]
+[1,4,2,4,3,4]
+
+*Main> burnt_bidirectional [(4,1),(9,0),(1,0),(10,1),(17,0)]
+[1,4,2,4,3,4]
+
+*Main> burnt_naive [(4,1),(9,0),(1,0),(10,1),(17,0)]
+[5,5,4,1,4,2,3,2,1,2]
 ```
+
+### Contributors 
+
+@all-contributors please add <msiampou> for <contributions>
+
 
 
 
