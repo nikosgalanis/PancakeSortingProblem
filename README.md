@@ -64,8 +64,7 @@ Download source code by typing:
 
 ### Contributors 
 
-@all-contributors please add <msiampou> for <contributions>
-
-
+Maria Despoina Siampou <msiampou>
+Nikos Galanis <nikosgalanis>
 
 
