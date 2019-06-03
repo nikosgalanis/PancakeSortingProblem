@@ -1,6 +1,6 @@
 import Data.List
 import Debug.Trace
-import Data.Function (on)
+import Data.Function (on)  
 import qualified Data.Set as Set
 
 ------------------------------
